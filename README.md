@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ksatish0731
-- 👀 I’m interested in health policy, ML, automation, economic markets
+- 👀 I’m interested in health policy
 - 🌱 I’m currently learning SQL and python
 - 💞️ I’m looking to collaborate on healthcare policy projects
 - 📫 How to reach me ksatish0731@gmail.com
